@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá, me chamo Damião Junior Terto ✋
 
-<!--
-**damiaoterto/damiaoterto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Site](https://img.shields.io/website?label=damiaoterto.dev&url=http://damiaoterto.dev&style=for-the-badge)](https://damiaoterto.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dami%C3%A3o-junior-terto-a7a280115/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damiao.dev/)
 
-Here are some ideas to get you started:
+![Damião Terto GitHub stats](https://github-readme-stats.vercel.app/api?username=damiaoterto&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img alt="Node.js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img alt="Node.js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
+    <img alt="Node.js" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Node.js" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div><br/>
+
+Após uma série de experiências profissionais, por um bom tempo trabalhei como freelancer de desenvolvimento web, atualmente consílio trabalho e estudo, estou em busca de me tornar um empreendedor no ramo de tecnologia, onde eu possa ajudar pessoas e empresas, seja em seu negócio ou em seu dia a dia.
