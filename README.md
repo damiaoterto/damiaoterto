@@ -2,7 +2,16 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/?original_referer=https%3A%2F%2Fgithub.com%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=damiaoterto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -37,16 +46,5 @@
 ###
 
 <p align="left">After a series of professional experiences, for a long time I worked as a freelancer in web development, and now I am consolidating work and study, I am looking to become an entrepreneur in the technology field, where I can help people and companies, either in their business or in their daily lives.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/?original_referer=https%3A%2F%2Fgithub.com%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
