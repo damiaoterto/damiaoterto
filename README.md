@@ -2,23 +2,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/?original_referer=https%3A%2F%2Fgithub.com%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/damião-junior-terto-a7a280115/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-</div>
+<img src="https://myreadme.vercel.app/api/embed/damiaoterto?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=damiaoterto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damiaoterto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
 
 ###
 
