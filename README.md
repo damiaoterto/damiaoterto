@@ -1,8 +1,10 @@
 <h2 align="left">Hello, my name is Damião Junior Terto ✋</h2>
 
 ###
-
-<img src="https://myreadme.vercel.app/api/embed/damiaoterto?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<div style="display: flex; flex-direction: row; justfy-content: flex-start; aling-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiaoterto&theme=blue-green" width="300" alt="javascript logo"  />
+<img src="https://github-readme-stats.vercel.app/api?username=damiaoterto&theme=blue-green" width="400" />
+</div>
 
 ###
 
