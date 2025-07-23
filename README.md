@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="229" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"  />
+  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1>Hey 👋What's Up?</h1>
 
 ###
 
-<p align="left">I'm a software developer with a passion for building robust and scalable applications. My expertise lies in the JavaScript ecosystem, particularly with Node.js for back-end development. I also have extensive experience with PHP and am increasingly working with Go for high-performance services.</p>
+<p>I'm a software developer with a passion for building robust and scalable applications. My expertise lies in the JavaScript ecosystem, particularly with Node.js for back-end development. I also have extensive experience with PHP and am increasingly working with Go for high-performance services.</p>
 
 ###
 
